@@ -30,24 +30,23 @@
 --------
 # <i>FOR 💛PREMIUM💛 ($15💰)</i>
 - <b>Note: 💛PREMIUM💛 gets 💚BASIC💚 and 💙COMMON💙 features too!</b>
-- ### 👑Client Mods🙀: 🌟Unlimited Ammo🌟, 🌟Rapid Fire🌟 (😀Updating soon!)
 - ### 👑Anti-Ban🔐
 - ### 👑Battle Pass completed✅
-- ### 👑Developer✨(In 💜DELUXE💜 there is more choices)
 - ### 👑Free VIP😎 (in PS3D)
 - ### 👑Multiple Bypasses💡
 - ### 👑Auto High-Attachments⚙
+- ### 👑Access to "Seperate-Scripts" section.✅
 --------
 # <i>FOR 💜DELUXE💜 ($20💰)</i>
 - <b>Note: 💜DELUXE💜 gets 💛PREMIUM💛, 💚BASIC💚, and 💙COMMON💙 features too!</b>
 - ### 👑All Items Unlocked✅ (🙀Everything in Category, weapons, weapon skins...)
 - ### 👑Developer, Moderator, Twitch, MVP, VIP, Elite, and YouTuber role🙀 (😃Your choice)
+- ### 👑Client Mods🙀: 🌟Unlimited Ammo🌟, 🌟Rapid Fire🌟 (😀Updating soon!)
 - ### 👑Free MVP😎 (in PS3D)
 - ### 👑Steal/Swap Accounts😼 (😂Gain access to any account, including friends, clan, et cetera)
 - ### 👑Join Any Clan✅
 - ### 👑Visual Clan-Commander😂
 - ### 👑Access to Python API🔐
-- ### 👑Access to "Seperate-Scripts" section.✅
 
 # ⚡Requirements⚡
 - ### ✅ mitmproxy installed and working (Check <a href="https://earthly.dev/blog/mitmproxy/">this blog</a> out on how to get it working.)
