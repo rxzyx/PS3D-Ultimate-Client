@@ -49,6 +49,9 @@
 - ### ✅ mitmproxy installed and working (Check <a href="https://earthly.dev/blog/mitmproxy/">this blog</a> out on how to get it working.)
 - ### ✅ Python version above 3.10 (Download here at <a href="https://www.python.org/downloads/">Python's official website</a>.)
 
+# 😎How to buy?😎
+- ### ✅ Add **rzx.#6671** on Discord (Me) to buy! 👑
+
 # ⚠DISCLAIMER⚠
 - ### ❗ **USE THIS SCRIPT WITH CAUTION**. It's best advised by the author that you use an alternative account or some sort.
 -----------
