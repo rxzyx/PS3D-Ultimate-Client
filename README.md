@@ -12,6 +12,7 @@
 - ### 👑Unlimited Parts🗝
 - ### 👑Auto-Refill Crate🌟
 - ### 👑Un-rig Crates🌟
+- ### 👑Double Coins✨
 - ### 👑Access to 'Rxzyx Custom-News'📰
 - ### 👑Fake Followers😂
 - ### 👑Skin Hack✅ (use any Minecraft skin for your PS3D character)
