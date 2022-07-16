@@ -41,7 +41,7 @@
 - <b>Note: 💜DELUXE💜 gets 💛PREMIUM💛, 💚BASIC💚, and 💙COMMON💙 features too!</b>
 - ### 👑All Items Unlocked✅ (🙀Everything in Category, weapons, weapon skins...)
 - ### 👑Developer, Moderator, Twitch, MVP, VIP, Elite, and YouTuber role🙀 (😃Your choice)
-- ### 👑Client Mods🙀: 🌟Unlimited Ammo🌟, 🌟Rapid Fire🌟 (😀Updating soon!)
+- ### 👑Client Mods🙀: 🌟Unlimited Ammo🌟, 🌟Rapid Fire🌟, 🌟Coins🌟, 🌟Cases🌟, 🌟Case Parts🌟 (😀Updating soon!)
 - ### 👑Free MVP😎 (in PS3D)
 - ### 👑Steal/Swap Accounts😼 (😂Gain access to any account, including friends, clan, et cetera)
 - ### 👑Join Any Clan✅
@@ -54,6 +54,14 @@
 
 # 😎How to buy?😎
 - ### ✅ Add **rzx.#6671** on Discord (Me) to buy! 👑
+
+# 👑Client Mods😼 (For 💜DELUXE💜)
+- ### 😀 Note: These hacks will be updated every single time PS3D has a new update.
+- ### ✅ "Unlimited Ammo" will ensure that you never run out of ammo!
+- ### ✅ "Rapid Fire" will make your weapon way faster and have no delays! This will be great with unlimited ammo!
+- ### ✅ "Coins" will ensure that you never run out of coins, while the original coins hack gives you an unlimited amount of them.
+- ### ✅ "Cases" will ensure that you never run out of cases, while the original cases hack gives you an unlimited amount of them.
+- ### ✅ "Case Parts" will ensure that you never run out of parts, while the original case parts hack gives you an unlimited amount of them.
 
 # ⚠DISCLAIMER⚠
 - ### ❗ **USE THIS SCRIPT WITH CAUTION**. It's best advised by the author that you use an alternative account or some sort.
