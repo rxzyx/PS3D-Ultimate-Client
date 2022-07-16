@@ -33,6 +33,7 @@
 - ### 👑Client Mods🙀: 🌟Unlimited Ammo🌟, 🌟Rapid Fire🌟 (😀Updating soon!)
 - ### 👑Anti-Ban🔐
 - ### 👑Battle Pass completed✅
+- ### 👑Developer✨(In 💜DELUXE💜 there is more choices)
 - ### 👑Free VIP😎 (in PS3D)
 - ### 👑Multiple Bypasses💡
 - ### 👑Auto High-Attachments⚙
