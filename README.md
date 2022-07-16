@@ -22,6 +22,7 @@
 - <b>Note: 💚BASIC💚 gets 💙COMMON💙 features too!</b>
 - ### 👑Unlimited Coins💰
 - ### 👑Unlimited Credits💰
+- ### 👑Unlimited Parkour-Currency💰
 - ### 👑Unlimited Level🌟 (risky mode, non-risky will make it random)
 - ### 👑Unlimited Prestige💪 (risky mode, non-risky will make it random)
 - ### 👑Auto-High Quality Skin😎
