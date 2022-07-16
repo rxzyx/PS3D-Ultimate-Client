@@ -65,7 +65,7 @@
 "Stealing" a user while you are banned can show the ban screen when you exit out of a game.
 For example:
 steal complete -> go into game -> exit out of game -> ❗ BANNED (for previous reasons) ❗
-However this isn't much of an issue as you can just re-open the app. However it is still irrating and the fix is not yet here.
+However this isn't much of an issue as you can just re-open the app. However it is still irritating and the fix is not yet here.
 ```
 -----------
 ## 💔BUG 02💔
