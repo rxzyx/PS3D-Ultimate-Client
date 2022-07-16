@@ -44,6 +44,7 @@
 - ### 👑Free MVP😎 (in PS3D)
 - ### 👑Steal/Swap Accounts😼 (😂Gain access to any account, including friends, clan, et cetera)
 - ### 👑Join Any Clan✅
+- ### 👑Visual Clan-Commander😂
 - ### 👑Access to Python API🔐
 - ### 👑Access to "Seperate-Scripts" section.✅
 
