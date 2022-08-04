@@ -1,6 +1,6 @@
 <h1 align="center">PS3D ⚡Ultimate⚡ Client</h1>
 <h3 align="center">The best PS3D hack you can find.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/wqz4jW6a</h2>
+<h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
