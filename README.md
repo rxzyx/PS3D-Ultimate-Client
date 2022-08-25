@@ -64,7 +64,7 @@
 - ### ✅ "Case Parts" will ensure that you never run out of parts, while the original case parts hack gives you an unlimited amount of them.
 
 # ⚠DISCLAIMER⚠
-- ### ❗ **USE THIS SCRIPT WITH CAUTION**. It's best advised by the author that you use an alternative account or some sort.
+- ### ❗ **USE THIS SCRIPT WITH CAUTION**. It's best advised by the author that you use an alternative account.
 -----------
 - ### ❗ You probably already know this, but i'll mention it any way; the PS3D Ultimate Client needs to be running for these hacks to work.
 -----------
