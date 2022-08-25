@@ -64,7 +64,8 @@
 - ### ✅ "Case Parts" will ensure that you never run out of parts, while the original case parts hack gives you an unlimited amount of them.
 
 # 📃CHANGELOG📃
-- ### ✔ Anti-Ban upgraded (8/25/2022)
+- ### 
+- ### ✔ Anti-Ban upgraded (25/8/2022)
 
 # ⚠DISCLAIMER⚠
 - ### ❗ **USE THIS SCRIPT WITH CAUTION**. It's best advised by the author that you use an alternative account.
