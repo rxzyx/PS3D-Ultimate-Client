@@ -53,7 +53,7 @@
 - ### ✅ Python version above 3.10 (Download here at <a href="https://www.python.org/downloads/">Python's official website</a>.)
 
 # 😎How to buy?😎
-- ### ✅ Add **rzx.#6671** on Discord (Me) to buy! 👑
+- ### ✅ Contact me on <a href="https://twitter.com/rxzyx1">my Twitter</a> to buy! 👑
 
 # 👑Client Mods😼 (For 💜DELUXE💜)
 - ### 😀 Note: These hacks will be updated every single time PS3D has a new update.
